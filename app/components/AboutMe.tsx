@@ -20,7 +20,7 @@ const AboutMe= () => {
 
 
   return (
-    <div className="grid max-w-8xl mx-auto space-x-1  grid-cols-3 px-16">
+    <div id="about" className="grid max-w-8xl mx-auto space-x-1  grid-cols-3 px-16">
         <motion.section 
             onMouseMove={handleMouseMove}
             onMouseEnter={() => setIsHovering(true)}

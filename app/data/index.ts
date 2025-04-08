@@ -44,7 +44,7 @@ export const projects = [
         id: 3,
         title: "ChatSpace",
         des: "A real-time chat application built with Socket.io and JWT-based authentication, featuring seamless user interactions and persistent chat history using MongoDB.",
-        img: "chatApp.avif",
+        img: "chatApp.jpg",
         iconLists: ["javascript.svg", "react.svg", "nodeJS.png", "socketio.svg"],
         link: "https://chatspace-b0uq.onrender.com/",
     },

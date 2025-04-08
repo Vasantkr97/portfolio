@@ -10,7 +10,6 @@ const Projects = () => {
     <section id="projects">
       <div className="py-20 flex flex-col items-center justify-center" id="projects"> 
         <h1 className="text-6xl font-bold">
-          Full Stack{"  "}
           <span className="text-green-500 text-6xl font-bold">Projects</span>
         </h1>
         <div className="grid lg:grid-cols-2 md:grid-cols-1 items-center justify-center p-4 gap-16 space-x-8 mt-10 mx-auto">

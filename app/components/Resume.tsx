@@ -14,7 +14,9 @@ const Resume = () => {
         </p>
       </div>
       <div className="flex items-center justify-center space-x-8 mt-10">
-        <Link href="">
+        <Link href="/resume.pdf"
+            download="resume.pdf"
+        >
             <button className="w-40 h-10 rounded-xl bg-green-500 hover:bg-green-600 dark:border-white border-white text-white text-sm">
                 Download CV
             </button>
